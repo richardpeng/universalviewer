@@ -89,7 +89,7 @@
     "three": "0.91.0",
     "utils": "edsilv/utils#v0.2.1",
     "uv-cy-gb-theme": "UniversalViewer/uv-cy-gb-theme#v1.1.1",
-    "uv-en-gb-theme": "richardpeng/uv-en-gb-theme#master",
+    "uv-en-gb-theme": "richardpeng/uv-en-GB-theme#bfe2bda0fbdb7d6b522da15237a9a4ef752b3f04",
     "virtex3d": "0.3.14"
   },
   "collective": {
